@@ -1,0 +1,9 @@
+{
+    "Name": "deim0s's btgTweaks",
+    "Description": "Skips tutorial missions, Speedup firing delay",
+    "Version": "0.0.1",
+    "Enabled": true,
+
+    "Manifest": [
+    ],
+}

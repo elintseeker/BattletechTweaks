@@ -1,0 +1,34 @@
+{
+    "Results" : [
+        {
+            "Scope" : "Company",
+            "Requirements" : null,
+            "AddedTags" : {},
+            "RemovedTags" : {},
+            "Stats" : [
+    			{
+    				"typeString" : "System.Int32",
+                    "name" : "NextStoryMilestone",
+                    "value" : 104, // 100 default
+    				"set" : "true",
+                    "valueConstant" : ""
+    			}
+            ],
+            "Actions" : [
+    			{
+                    "Type" : "System_ShowTitleCard",
+                    "value" : "true",
+    				"additionalValues" : [
+    					"CORONATION DAY",
+    					"Arano Summer Palace — 08:53 Local Time",
+    					"5.0",
+    					"3.0"
+    				]
+                }
+            ],
+            "ForceEvents" : null,
+            "TemporaryResult" : false,
+            "ResultDuration" : 0
+        }
+    ],
+}
