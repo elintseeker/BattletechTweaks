@@ -1,4 +1,4 @@
-# Battletech Emblem Pack
+# Battletech Personal Tweaks
 BattleTech mod (using BTML) making audio speedier and skips tutorial missions. Meaning, cutscenes are intact and viewable.
 
 ## Requirements
