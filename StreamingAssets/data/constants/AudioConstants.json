@@ -1,0 +1,7 @@
+{
+   "AttackPreFireDuration" : 0.5,         // 1 default
+   "AttackAfterFireDelay" : 0.25,         // 0.5 default
+   "AttackAfterFireDuration" : 0.5,       // 1 default
+   "AttackAfterCompletionDuration" : 1,   // 2 default
+   "audioFadeDuration" : 1.25,            // 2.5 default
+}
